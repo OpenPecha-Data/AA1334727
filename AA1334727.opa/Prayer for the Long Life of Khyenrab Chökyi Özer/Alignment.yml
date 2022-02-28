@@ -1,0 +1,25 @@
+segment_sources:
+  P982B6E07:
+    type: origin_type
+    relation: translation
+    language: en
+  P27472E7F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2f20a2355b2047909a8a1ba01b101fb4:
+    P982B6E07: 750fa4bf20bb4f14b081805fc48ed768
+    P27472E7F: bcaadbdbb45b41509176d0d014205e06
+  32c0843c48eb4982881cd873dd56c80c:
+    P982B6E07: 4c1eae40ae884792914c71566694c031
+    P27472E7F: 097a4046e72f45bdb5c2d49bdea54b5e
+  f6de314f0e5148549a6bcb5d10be1083:
+    P982B6E07: 13e5a2cb86784e71b86a3d64b11cf6b0
+    P27472E7F: d60071269c384d50867fb6a5079fde3c
+  56046184794244578928494f7ffa3af5:
+    P982B6E07: 10b8eaa1bf2c40e09adf1d9c080fe29b
+    P27472E7F: c4700f7dba1b4510980dff6deb383143
+  b0e28c9841f4437a88e30b6230cd2688:
+    P982B6E07: cd79ebe3b0184682bda4582def8db739
+    P27472E7F: 5f61b40a3c734350ba0678f274d95877
